@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "935512466978",
+    "project_id": "natural-axiom-313816",
+    "storage_bucket": "natural-axiom-313816.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:935512466978:android:e60766de14e637a0f74c7b",
+        "android_client_info": {
+          "package_name": "myapp.test"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "935512466978-pa4931t2ugidmqkd79bqv3ligvctjqvf.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAv570wRi0XI1cwTNBkBCvSd9LsDb7bhH0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "935512466978-pa4931t2ugidmqkd79bqv3ligvctjqvf.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
